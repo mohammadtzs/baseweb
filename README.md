@@ -16,7 +16,7 @@
 
 ## Usage
 
-On npm, you can find Base Web as `baseui`.
+On npm, you can find Base Web as `baseui`..
 
 Add `baseui` and its peer dependencies to your project:
 
